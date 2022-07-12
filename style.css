@@ -1,0 +1,40 @@
+body{
+    background-size: cover;
+   
+}
+
+
+#gif{
+  border-radius: 20px;
+  border-width: 30px;
+border-color: blue;
+}
+
+
+
+
+canvas{
+  border-radius: 20px;
+  border-width: 20px;
+  
+}
+
+#coppy_right_footer{
+  
+  margin-top: 0px;
+  background-color: aqua;
+  color: black;
+  border-radius: 30px;
+  font-size: 30px;
+  font-weight: bold;
+  border-width: 5px;
+  border-color: black;
+  text-align: center;
+  padding-left: 500px;
+  padding-right: 500px;
+  margin-bottom: 0px;
+}
+
+.heading{
+  margin-top: 0px;
+}
